@@ -14,55 +14,34 @@ Finalist in the **Microsoft EDI Business Challenge**, with proven ability to tra
 ---
 ### 🛠️ Technical Skills  
 
-### Data Analysis & BI  
+#### Data Analysis & BI  
 - Python (Pandas, NumPy)  
 - SQL (Relational Design, Joins, CRUD, Normalisation)  
 - Excel (Advanced)  
 - Power BI  
 
-### Data Science  
+#### Data Science  
 - Scikit-learn  
 - Jupyter Notebook  
 
-### Systems & Tools  
+#### Systems & Tools  
 - Git & GitHub  
 - Bash Scripting  
 - Linux & Windows  
 
-### Web / Programming  
-- Java  
-- HTML, CSS, JavaScript  
----
-## 🛠️ Technical Skills  
-
-### Data Analysis & BI  
-- Python (Pandas, NumPy)  
-- SQL (Relational Design, Joins, CRUD, Normalisation)  
-- Excel (Advanced)  
-- Power BI  
-
-### Data Science  
-- Scikit-learn  
-- Jupyter Notebook  
-
-### Systems & Tools  
-- Git & GitHub  
-- Bash Scripting  
-- Linux & Windows  
-
-### Web / Programming  
+#### Web / Programming  
 - Java  
 - HTML, CSS, JavaScript  
 ---
 ### 📊 Technical Projects  
 
-### 🔹 AI-Based Public Feedback Classification System  
+#### 🔹 AI-Based Public Feedback Classification System  
 **Microsoft EDI Business Challenge – Finalist**  
 - Designed an AI-driven classification concept to analyse large-scale public feedback  
 - Enabled structured, data-informed insights for policymaker decision-making  
 - Focused on scalability, explainability, and real-world policy constraints  
 
-### 🔹 Healthcare Information Systems Modelling  
+#### 🔹 Healthcare Information Systems Modelling  
 - Modelled hospital workflows using **UML diagrams**  
 - Designed relational database schemas to identify operational inefficiencies  
 - Improved data flow and system clarity within healthcare settings  
@@ -72,23 +51,23 @@ Finalist in the **Microsoft EDI Business Challenge**, with proven ability to tra
 - Performed complex joins, CRUD operations, and data validation  
 - Improved data integrity and query performance  
 
-### 🔹 AI Facial Authentication for Secure Transit (F.A.S.T System)  
+#### 🔹 AI Facial Authentication for Secure Transit (F.A.S.T System)  
 - Proposed a facial recognition system using **Python & OpenCV**  
 - Evaluated feasibility, ethical considerations, and deployment challenges  
 - Focused on security, bias, and public trust implications  
 
-### 🔹 Accenture Hackathon – Student Mental Health & Well-being  
+#### 🔹 Accenture Hackathon – Student Mental Health & Well-being  
 - Collaborated in a multidisciplinary team  
 - Designed a data- and AI-enabled digital solution to address mental health challenges  
 - Applied user-centred and impact-driven design principles  
 
-### 🔹 AWS Hackathon – Privacy Policy Summariser  
+#### 🔹 AWS Hackathon – Privacy Policy Summariser  
 - Built a prototype using **AWS PartyRock**  
 - Automated summarisation and extraction of key insights from legal documents  
 ---
 ### 🎓 Education  
 
-### BSc (Hons) Data Science & Artificial Intelligence  
+#### BSc (Hons) Data Science & Artificial Intelligence  
 **University of East London** | Sept 2023 – Expected June 2026  
 **Predicted:** First-Class Honours  
 
@@ -102,7 +81,7 @@ Strong academic focus on **data analytics, databases, and programming**, with co
 ---
 ### 💼 Experience  
 
-### Junior Lab Technician (Work-Based Learning Placement)  
+#### Junior Lab Technician (Work-Based Learning Placement)  
 **University of East London** | Dec 2024 – Apr 2025  
 
 - Diagnosed and resolved OS and network configuration issues (DHCP/DNS)  
