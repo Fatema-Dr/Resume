@@ -1,98 +1,133 @@
-# 👩‍💻 Fatema Doctor
+# Fatema Doctor  
+**BSc (Hons) Data Science & Artificial Intelligence (Predicted First-Class)**  
 
-📞 07760193095  
-✉️ fatema.doctor09@gmail.com  
-🔗 [LinkedIn](https://linkedin.com/in/doctor-fatema)
-
----
-
-## 🚀 About Me
-
-I'm a motivated **BSc Data Science and Artificial Intelligence** student at the **University of East London**, passionate about applying AI and data-driven solutions to real-world challenges. I bring hands-on experience in **Python**, **SQL**, and **machine learning**, with a strong foundation in **data analytics**, **system modelling**, and **database management**. Known for my analytical thinking, problem-solving skills, and collaborative mindset.
+📍 London, UK  
+📧 fatema.doctor09@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/doctor-fatema)  
 
 ---
 
-## 🛠️ Skills
+## 👩‍💻 Professional Summary  
 
-**Languages & Technologies**  
-`Python` `Java` `SQL` `HTML` `CSS` `JavaScript`
+Data Science & Artificial Intelligence undergraduate with strong hands-on experience in **Python, SQL, Excel, and Power BI**, supported by high academic achievement and consulting-style projects across **public policy, healthcare, and social impact** domains.
 
-**Data Science & Analytics**  
-- Data Cleaning & Preprocessing  
-- Information Systems Modelling  
-- Database Management  
-- Algorithm Development  
-- Data Visualization (Power BI)
-
-**Tools**  
-- Microsoft Office (Word, Excel, PowerPoint)  
-- GitHub
-
-**Soft Skills**  
-- Problem-Solving  
-- Teamwork  
-- Adaptability  
-- Time Management  
-- Analytical Thinking
+Finalist in the **Microsoft EDI Business Challenge**, with proven ability to translate complex, ambiguous problems into **clear, data-driven insights**. Experienced in data analysis, system modelling, database design, and communicating findings to both technical and non-technical stakeholders. Actively seeking **graduate data analyst / data consultant roles** focused on analytical rigour, data quality, and impact-driven decision-making.
 
 ---
 
-## 🎓 Education
+## 🛠️ Technical Skills  
 
-**BSc Data Science and Artificial Intelligence**  
-*University of East London, London, UK*  
-📅 *Sept 2023 – Present*
+### Data Analysis & BI  
+- Python (Pandas, NumPy)  
+- SQL (Relational Design, Joins, CRUD, Normalisation)  
+- Excel (Advanced)  
+- Power BI  
 
-**Key Modules & Scores**  
-- Software Development: 97/100  
-- Information Systems Modelling & Design: 89/100  
-- Web Technologies: 90/100  
-- Computer Systems & Network: 86/100  
-- Mental Wealth: IT Project Pitching: 99/100  
-- Programming for Data Science: 98/100  
-- Database Systems: 99/100  
-- Data Structures and Algorithm: 90/100
-- Business Intelligence Analysis: 99/100
-- Artificial Intelligence: 94/100
+### Data Science  
+- Scikit-learn  
+- Jupyter Notebook  
 
----
+### Systems & Tools  
+- Git & GitHub  
+- Bash Scripting  
+- Linux & Windows  
 
-## 💼 Experience
-
-**Junior Lab Technician (Work-Based Learning Placement)**  
-*University of East London, London, UK*  
-📅 *Dec 2024 – April 2025*
-
-- Diagnosed and resolved technical issues related to OS installations, network connectivity (DHCP/DNS), and scripting errors.
-- Configured servers (Windows/Ubuntu) and automated tasks using Bash scripting (e.g., user creation), improving efficiency.
+### Web / Programming  
+- Java  
+- HTML, CSS, JavaScript  
 
 ---
 
-## 🧪 Projects
+## 🛠️ Technical Skills  
 
-- **Hospital Problem System**  
-  Modelled hospital workflows using UML diagrams and designed a database schema.
+### Data Analysis & BI  
+- Python (Pandas, NumPy)  
+- SQL (Relational Design, Joins, CRUD, Normalisation)  
+- Excel (Advanced)  
+- Power BI  
 
-- **Clothes Shop App**  
-  Developed a Java-based app using OOP principles.
+### Data Science  
+- Scikit-learn  
+- Jupyter Notebook  
 
-- **Food Charity Website**  
-  Built a responsive front-end with HTML/CSS and integrated JavaScript functionality.
+### Systems & Tools  
+- Git & GitHub  
+- Bash Scripting  
+- Linux & Windows  
 
-- **F.A.S.T System**  
-  Proposed an AI-based Facial Authentication model for secure transit.
-
-- **GYM Management Database**  
-  Designed and implemented using SQL for CRUD operations and relational concepts.
+### Web / Programming  
+- Java  
+- HTML, CSS, JavaScript  
 
 ---
 
-## 🏆 Achievements
+## 📊 Technical Projects  
 
+### 🔹 AI-Based Public Feedback Classification System  
 **Microsoft EDI Business Challenge – Finalist**  
-- **TeenGarde**: Platform for enhancing online safety among teenagers.  
-- **Altruize**: AI-powered system to match donors with suitable charities.  
-- **ConsultUK**: AI-based feedback classification system for public policy.
+- Designed an AI-driven classification concept to analyse large-scale public feedback  
+- Enabled structured, data-informed insights for policymaker decision-making  
+- Focused on scalability, explainability, and real-world policy constraints  
 
-**Accenture Hackathon – Student Mental Health & Well-being**  
-- Collaborated in a team to design digital solutions addressing student mental health challenges.
+### 🔹 Healthcare Information Systems Modelling  
+- Modelled hospital workflows using **UML diagrams**  
+- Designed relational database schemas to identify operational inefficiencies  
+- Improved data flow and system clarity within healthcare settings  
+
+### 🔹 Relational Database Design & Analysis  
+- Designed and implemented a fully normalised relational database using SQL  
+- Performed complex joins, CRUD operations, and data validation  
+- Improved data integrity and query performance  
+
+### 🔹 AI Facial Authentication for Secure Transit (F.A.S.T System)  
+- Proposed a facial recognition system using **Python & OpenCV**  
+- Evaluated feasibility, ethical considerations, and deployment challenges  
+- Focused on security, bias, and public trust implications  
+
+### 🔹 Accenture Hackathon – Student Mental Health & Well-being  
+- Collaborated in a multidisciplinary team  
+- Designed a data- and AI-enabled digital solution to address mental health challenges  
+- Applied user-centred and impact-driven design principles  
+
+### 🔹 AWS Hackathon – Privacy Policy Summariser  
+- Built a prototype using **AWS PartyRock**  
+- Automated summarisation and extraction of key insights from legal documents  
+
+---
+
+## 🎓 Education  
+
+### BSc (Hons) Data Science & Artificial Intelligence  
+**University of East London** | Sept 2023 – Expected June 2026  
+**Predicted:** First-Class Honours  
+
+#### Key Academic Achievements  
+- Software Development: **97/100**  
+- Database Systems: **99/100**  
+- Programming for Data Science: **98/100**  
+- Mental Wealth – IT Project Pitching: **99/100**  
+- Data Structures & Algorithms: **90/100**  
+
+Strong academic focus on **data analytics, databases, and programming**, with consistent top performance across core modules.
+
+---
+
+## 💼 Experience  
+
+### Junior Lab Technician (Work-Based Learning Placement)  
+**University of East London** | Dec 2024 – Apr 2025  
+
+- Diagnosed and resolved OS and network configuration issues (DHCP/DNS)  
+- Automated user account creation using **Bash scripting**, reducing setup time by **30%**  
+- Configured Windows and Ubuntu servers for academic labs and student projects  
+
+---
+
+## 📫 Contact  
+
+- Email: **fatema.doctor09@gmail.com**  
+- LinkedIn: [linkedin.com/in/doctor-fatema](https://linkedin.com/in/doctor-fatema)  
+
+---
+
+⭐ *Feel free to connect with me on LinkedIn.*
