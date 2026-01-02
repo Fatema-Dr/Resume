@@ -2,7 +2,6 @@
 **BSc (Hons) Data Science & Artificial Intelligence (Predicted First-Class)**  
 
 📍 London, UK  
-📧 fatema.doctor09@gmail.com  
 🔗 [LinkedIn](https://linkedin.com/in/doctor-fatema)  
 
 ---
@@ -124,10 +123,6 @@ Strong academic focus on **data analytics, databases, and programming**, with co
 ---
 
 ## 📫 Contact  
-
-- Email: **fatema.doctor09@gmail.com**  
 - LinkedIn: [linkedin.com/in/doctor-fatema](https://linkedin.com/in/doctor-fatema)  
 
 ---
-
-⭐ *Feel free to connect with me on LinkedIn.*
