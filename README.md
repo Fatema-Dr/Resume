@@ -5,7 +5,6 @@
 🔗 [LinkedIn](https://linkedin.com/in/doctor-fatema)  
 
 ---
-
 ## 👩‍💻 Professional Summary  
 
 Data Science & Artificial Intelligence undergraduate with strong hands-on experience in **Python, SQL, Excel, and Power BI**, supported by high academic achievement and consulting-style projects across **public policy, healthcare, and social impact** domains.
@@ -13,7 +12,6 @@ Data Science & Artificial Intelligence undergraduate with strong hands-on experi
 Finalist in the **Microsoft EDI Business Challenge**, with proven ability to translate complex, ambiguous problems into **clear, data-driven insights**. Experienced in data analysis, system modelling, database design, and communicating findings to both technical and non-technical stakeholders. Actively seeking **graduate data analyst / data consultant roles** focused on analytical rigour, data quality, and impact-driven decision-making.
 
 ---
-
 ## 🛠️ Technical Skills  
 
 ### Data Analysis & BI  
@@ -34,9 +32,7 @@ Finalist in the **Microsoft EDI Business Challenge**, with proven ability to tra
 ### Web / Programming  
 - Java  
 - HTML, CSS, JavaScript  
-
 ---
-
 ## 🛠️ Technical Skills  
 
 ### Data Analysis & BI  
@@ -57,9 +53,7 @@ Finalist in the **Microsoft EDI Business Challenge**, with proven ability to tra
 ### Web / Programming  
 - Java  
 - HTML, CSS, JavaScript  
-
 ---
-
 ## 📊 Technical Projects  
 
 ### 🔹 AI-Based Public Feedback Classification System  
@@ -91,9 +85,7 @@ Finalist in the **Microsoft EDI Business Challenge**, with proven ability to tra
 ### 🔹 AWS Hackathon – Privacy Policy Summariser  
 - Built a prototype using **AWS PartyRock**  
 - Automated summarisation and extraction of key insights from legal documents  
-
 ---
-
 ## 🎓 Education  
 
 ### BSc (Hons) Data Science & Artificial Intelligence  
@@ -106,11 +98,8 @@ Finalist in the **Microsoft EDI Business Challenge**, with proven ability to tra
 - Programming for Data Science: **98/100**  
 - Mental Wealth – IT Project Pitching: **99/100**  
 - Data Structures & Algorithms: **90/100**  
-
 Strong academic focus on **data analytics, databases, and programming**, with consistent top performance across core modules.
-
 ---
-
 ## 💼 Experience  
 
 ### Junior Lab Technician (Work-Based Learning Placement)  
@@ -119,10 +108,7 @@ Strong academic focus on **data analytics, databases, and programming**, with co
 - Diagnosed and resolved OS and network configuration issues (DHCP/DNS)  
 - Automated user account creation using **Bash scripting**, reducing setup time by **30%**  
 - Configured Windows and Ubuntu servers for academic labs and student projects  
-
 ---
-
 ## 📫 Contact  
 - LinkedIn: [linkedin.com/in/doctor-fatema](https://linkedin.com/in/doctor-fatema)  
-
 ---
