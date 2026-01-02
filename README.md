@@ -31,7 +31,7 @@ Finalist in the **Microsoft EDI Business Challenge**, with proven ability to tra
 
 #### Web / Programming  
 - Java  
-- HTML, CSS, JavaScript  
+- HTML, CSS, JavaScript
 ---
 ### 📊 Technical Projects  
 
@@ -89,5 +89,6 @@ Strong academic focus on **data analytics, databases, and programming**, with co
 - Configured Windows and Ubuntu servers for academic labs and student projects  
 ---
 ### 📫 Contact  
+
 - LinkedIn: [linkedin.com/in/doctor-fatema](https://linkedin.com/in/doctor-fatema)  
 ---
